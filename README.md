@@ -24,7 +24,7 @@
 1. **Клонировать репозиторий:**
 
    ```bash
-   git clone [https://github.com/YourUsername/your-repository.git](https://github.com/NezoXMir/images-team-work.git)
+   git clone https://github.com/NezoXMir/images-team-work.git
    ```
    
 2. **Настроить права доступа:**
